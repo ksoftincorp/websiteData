@@ -1,7 +1,7 @@
 
-const crypto = require("crypto")
+
 const painintoztsandwinches = {
-    id: crypto.randomBytes(4).toString('hex'),
+    id: Number, // increment by 1
 
     subMenu:String,
     backgroundColor: String, // default value: ''
