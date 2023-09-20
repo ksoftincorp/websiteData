@@ -66,6 +66,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
+            taxable:true,
 
             indexPosition: 1,
             linkedModifiers: [
@@ -84,7 +85,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -102,7 +103,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -120,7 +121,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -138,7 +139,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -156,7 +157,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -174,7 +175,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -192,7 +193,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -210,7 +211,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -228,7 +229,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -246,7 +247,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -264,7 +265,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -282,7 +283,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -300,7 +301,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -318,7 +319,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -336,7 +337,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -354,7 +355,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -372,7 +373,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
@@ -391,7 +392,7 @@ const painintoztsandwinches = {
             spicyLevel: 1,
             vegan: false,
 
-            indexPosition: 1,
+         taxable:true,    indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
             ]
@@ -408,7 +409,7 @@ const painintoztsandwinches = {
             takeOutPrice: 9.99,
             spicyLevel: 1,
             vegan: false,
-
+ taxable:true,
             indexPosition: 1,
             linkedModifiers: [
                 { modifierId: 1, title: "Ads On" }
