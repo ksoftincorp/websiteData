@@ -4,15 +4,15 @@
 
             description: String,
             image: String,
-            active: Boolean,
+            active: Boolean, // default value: true
             dineInPrice: Decimal,
             takeOutPrice: Decimal,
-            spicyLevel: Number,
-            vegan: Boolean,
+            spicyLevel: Number, //default value: 0
+            vegan: Boolean,  // default value:false
 
-            indexPosition: Number,
-            linkedModifiers: [
-                { modifierId: Number, title: String }
+            indexPosition: Number,  // increment by 1
+            linkedModifiers: [ // list of modifier linked to the given item
+                { modifierId: Number, title: String }  //
             ]
 
         },
