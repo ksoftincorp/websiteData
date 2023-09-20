@@ -1,5 +1,5 @@
 {
-            id: crypto.randomBytes(4).toString('hex'),
+            id: Number, // increment by 1
             item_name: String,
 
             description: String,
