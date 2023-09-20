@@ -11,6 +11,27 @@ const painintoztsandwinches = {
     modifiers: [
         {
             modifierId: 1,
+            title: 'choose a size',
+            indexPosition: 1,
+            noOfSelectionRequired: 50,
+            required: true,
+         
+            options: [
+               
+                { id: 1, item_name: 'Add Avocado', dineInPrice: 0, takeOutPrice: 0, active: true, checked: false },
+                { id: 2, item_name: 'Add Bacon', dineInPrice: 0, takeOutPrice: 0, active: true, checked: false },
+                { id: 3, item_name: 'Add Cheese', dineInPrice: 0, takeOutPrice: 0, active: true, checked: false },
+                { id: 4, item_name: 'Add Guacamole', dineInPrice: 0, takeOutPrice: 0, active: true, checked: false },
+                { id: 5, item_name: 'Add Jalapeno', dineInPrice: 0, takeOutPrice: 0, active: true, checked: false },
+                { id: 6, item_name: 'Add Meat', dineInPrice: 0, takeOutPrice: 0, active: true, checked: false },
+                { id: 71, item_name: 'Add Mushrooms', dineInPrice: 0, takeOutPrice: 0, active: true, checked: false },
+                { id: 8, item_name: 'Add Sweet Peppers', dineInPrice: 0, takeOutPrice: 0, active: true, checked: false },
+                { id: 9, item_name: 'Add Tomato', dineInPrice: 0, takeOutPrice: 0, active: true, checked: false },
+
+            ]
+        },
+          {
+            modifierId: 2,
             title: 'Ads On',
             indexPosition: 1,
             noOfSelectionRequired: 50,
